@@ -1,0 +1,112 @@
+{
+    "meny": {
+        "drikke": [
+            {
+                "navn": "Espresso",
+                "beskrivelse": "En kraftig og intesn kaffe, perfekt for å start dagen med.",
+                "pris": 40
+            },
+
+            {
+                "navn":"Americano",
+                "beskrivelse":"Espresso med varmt vann, perfekt for de som liker en mildere smak.",
+                "pris": 40
+            },
+
+            {
+                "navn": "Cappuccino",
+                "beskrivelse":"Espresso med et fyldig lag av melkeskum.",
+                "pris": 50
+            },
+            {
+                "navn": "Latte",
+                "beskrivelse":"Mild espresso med varm melk og et lett skumlag.",
+                "pris": 50
+            },
+
+            {
+                "navn": "Te",
+                "beskrivelse": "Et utvalg av urtete, svart te og grønn te. ",
+                "pris": 30
+            },
+
+            {
+                "navn": "Kakao",
+                "beskrivelse": "Den perfekte drikken for en koselig pause.",
+                "pris": 40
+            }
+        ],
+
+        "smørbrød_og_lunsjretter":[
+            {
+                "navn":"Avokado toast",
+                "beskrivelse":"Ristet brød med avokado, tomat og urter.",
+                "pris": 70
+            },
+
+            {
+                "navn":"Kylling caesar wrap",
+                "beskrivelse":"Kylling, salat og caesar-dressing i en myk tortilla.",
+                "pris": 80
+            },
+
+            {
+                "navn": "Grillet ostesmørbrød",
+                "beskrivelse":"Klassisk smeltet ostesmørbrød med tomat og urter.",
+                "pris": 50
+            }
+        ],
+
+        "supper_og_salater": [
+            {
+                "navn": "Kremet tomatsuppe",
+                "beskrivelse":"Servert med et stykke ristet brød.",
+                "pris": 60
+            },
+
+            {
+                "navn": "Sopp- og potetsuppe",
+                "beskrivelse":"En mild og smakfull suppe for kalde dager.",
+                "pris": 70
+            },
+
+            {
+                "navn":"Kylling- og avokadosalat",
+                "beskrivelse":"Grillet kylling, avokado og blandet salat.", 
+                "pris": 80
+            },
+
+            {
+                "navn":"Quinoasalat med Hummus",
+                "beskrivelse":"En lett salat med quinoa, hummus og sesongens grønnsaker.",
+                "pris": 70
+            }
+        ],
+
+        "søte_fristelser":[
+            {
+                "navn": "Sjokladekake",
+                "beskrivelse":"Saftig og rik på smak.",
+                "pris": 50
+            },
+
+            {
+                "navn": "Kanelbolle",
+                "beskrivelse":"Nystekt og perfekt med en kopp kaffe.",
+                "pris": 40
+            },
+
+            {
+                "navn": "Eplekake",
+                "beskrivelse":"En klassisk favoritt, servert med krem",
+                "pris": 60
+            },
+
+            {
+                "navn":"Bananbrød",
+                "beskrivelse":"Lunt og smakfullt, perfekt til en kaffepause.",
+                "pris": 50
+            }
+        ]
+    }
+}
