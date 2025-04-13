@@ -37,7 +37,7 @@
             }
         ],
 
-        "Smørbrød og lunsjretter":[
+        "smørbrød_og_lunsjretter":[
             {
                 "navn":"Avokado toast",
                 "beskrivelse":"Ristet brød med avokado, tomat og urter.",
@@ -57,7 +57,7 @@
             }
         ],
 
-        "Supper og Salater": [
+        "supper_og_salater": [
             {
                 "navn": "Kremet tomatsuppe",
                 "beskrivelse":"Servert med et stykke ristet brød.",
@@ -83,7 +83,7 @@
             }
         ],
 
-        "Søte fristelser":[
+        "søte_fristelser":[
             {
                 "navn": "Sjokladekake",
                 "beskrivelse":"Saftig og rik på smak.",
